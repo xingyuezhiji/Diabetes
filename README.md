@@ -1,0 +1,4 @@
+先运行change.py增加特征维度，再运行baseline.py
+其中d_train_20180102.csv 有5642行
+d_train_20180102_add.csv 有6642行，加了A榜的1000行
+如果要看A榜的线上成绩，则把baseline.py里边的train test 和ol改一下路径即可
